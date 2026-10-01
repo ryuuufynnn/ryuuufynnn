@@ -1,7 +1,7 @@
 # John Laurence Aramay
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Education-BS%20Computer%20Engineering%20(2nd%20Year)-181717?style=flat-square&logo=github&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Education-BS%20Computer%20Engineering%20(2nd%20Year)%20AY%202026--2027-181717?style=flat-square&logo=github&logoColor=white" alt="Education" />
 </p>
 
 > **Student & Aspiring Developer** building practical projects to solve day-to-day challenges through code.
@@ -34,13 +34,37 @@
 
 ---
 
-### GitHub Statistics
-
-### GitHub Statistics
+## GitHub Statistics
+<p align="left">
+  <img src="https://img.shields.io/badge/2026%20Contributions-1905-brightgreen?style=for-the-badge" />
+</p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryuuufynnn&include_all_commits=true&count_private=true&hide=prs,issues,stars&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuufynnn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <table>
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=ryuuufynnn&theme=tokyonight&hide_border=true" height="170" />
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuufynnn&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+</td>
+
+<td valign="top">
+
+<img src="https://img.shields.io/github/followers/ryuuufynnn?style=for-the-badge&logo=github&label=Followers" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ryuuufynnn&style=for-the-badge&label=Profile+Views" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" />
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
